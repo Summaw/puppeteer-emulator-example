@@ -20,5 +20,5 @@ puppeteer.launch({headless:false}).then(async browser => {
    await page.type('#root > div > div.tiktok-web-body-33PDi > form > div.form-container-3hjAo > div > input[type=text]', username);
    await page.type('#root > div > div.tiktok-web-body-33PDi > form > div.form-container-3WLeZ > div > input[type=password]', password)
    await page.click('#root > div > div.tiktok-web-body-33PDi > form > button')
-   // Captcha Will be displayed after it clicks on the submit selecotor.
+   // Captcha Will be displayed after it clicks on the submit selector.
 })
