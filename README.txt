@@ -2,7 +2,7 @@
 [-] npm install puppeteer
 
 [+] Devices options [+]
-[-] Right now I have it set to Ipad landscape Yo ucna change this to any type you would like.
+[-] Right now I have it set to Ipad landscape. You can change this to any type you would like.
 
 [+] What device to use? [+]
 [-] We can run tests with mobile configurations in Puppeteer and check the responsive property of a webpage
